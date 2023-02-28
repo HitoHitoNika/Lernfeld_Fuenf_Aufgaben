@@ -23,13 +23,16 @@ public class Ratespiel {
 
         int randomZahl;
 
+        int zugAnzahl=1;
+
         Scanner scanner = new Scanner(System.in);
 
         boolean gewonnen = false;
 
         System.out.println("Willkommen beim Ratespiel");
 
-        randomZahl = new Random().nextInt(grenzeBestimmen(scanner));
+        randomZahl = new Random().nextInt(grenzeBestimmen(scanner))+1;
+
 
         while (gewonnen == false) {
 
@@ -41,6 +44,8 @@ public class Ratespiel {
 
                 System.out.println("Sie haben gewonnen !");
 
+                zugAnzahlAuswerten(zugAnzahl);
+
             } else if (eingabe > randomZahl) {
 
                 System.out.println("Die von ihnen eingegebene Zahl ist groesser als die Zufallszahl");
@@ -50,6 +55,9 @@ public class Ratespiel {
                 System.out.println("Die von ihnen eingegebene Zahl ist kleiner als die Zufallszahl");
 
             }
+
+            zugAnzahl++;
+
         }
     }
 
@@ -62,4 +70,17 @@ public class Ratespiel {
         System.out.println("Bestimmen sie die obere Grenze der Zufallszahl");
         return scanner.nextInt();
     }
+
+    private static void zugAnzahlAuswerten(int zugAnzahl){
+        if(zugAnzahl<=5){
+            System.out.println("Richtig flotter Hase hier in "+zugAnzahl+" Zuegen geloest");
+        }else if(zugAnzahl<=10){
+            System.out.println("Nicht ganz so flotter Hase in "+zugAnzahl+" Zuegen geloest");
+        }else{
+            System.out.println("Schildkröte in "+zugAnzahl+" Zuegen geloest");
+        }
+    }
+    
+    
+
 }

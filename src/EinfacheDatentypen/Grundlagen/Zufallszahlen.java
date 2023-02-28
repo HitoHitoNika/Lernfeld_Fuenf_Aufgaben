@@ -31,6 +31,8 @@ public class Zufallszahlen {
         // Aufgabe 1
         // Erzeuge Zufallszahl
         int zufallsZahl = new Random().nextInt();
+
+        System.out.println(zufallsZahl);
     }
 
     static void aufgabeZwei() {
