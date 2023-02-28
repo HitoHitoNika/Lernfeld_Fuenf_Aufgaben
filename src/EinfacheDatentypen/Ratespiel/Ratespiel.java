@@ -54,7 +54,7 @@ public class Ratespiel {
 
                 System.out.println("Die von ihnen eingegebene Zahl ist kleiner als die Zufallszahl");
 
-            }
+            } 
 
             zugAnzahl++;
 

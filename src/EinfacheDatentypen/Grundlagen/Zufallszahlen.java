@@ -47,7 +47,7 @@ public class Zufallszahlen {
     }
 
     static void aufgabeDrei() {
-        // Aufgabe 3
+        // Aufgabe 3 
         // Erzeuge eine Zufallszahl im Bereich von 75 bis 500
         int zufallsZahl = new Random().nextInt(426) + 75;
 
