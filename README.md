@@ -10,7 +10,6 @@ Poste hier auch später noch wie man den Code pullt etc. :)
 # Aktueller Stand
 
 ## Einfache Datentypen
-###### Grundlagen
 ###### Einfache Datentypen                 ✔️
 ######        Operatoren                   ✔️
 ######        Schleifen                    ✔️
