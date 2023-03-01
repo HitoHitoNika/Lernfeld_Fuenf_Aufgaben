@@ -24,5 +24,5 @@ Poste hier auch später noch wie man den Code pullt etc. :)
 ## Ratespiel                               ✔️
 
 ##  Arrays
-###### Wetterstation/CSVReader             ❌
+###### Wetterstation/CSVReader             ✔️
 ###### TicTacToe                           ✔️
