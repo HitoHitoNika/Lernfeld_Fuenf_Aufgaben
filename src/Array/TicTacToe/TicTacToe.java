@@ -34,6 +34,9 @@ public class TicTacToe {
             }
             
         }
+
+        System.out.println("Der Gewinner ist: "+spielstein);
+
     }
 
     private static boolean gewinnbedingungPruefen(char[][] spielfeld,char spielstein) {
