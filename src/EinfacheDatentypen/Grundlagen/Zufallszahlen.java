@@ -2,6 +2,14 @@ package EinfacheDatentypen.Grundlagen;
 
 import java.util.Random;
 
+/**
+ * Zufallszahlen
+ * 
+ * @autor Max B / github.com/hitohitonika
+ * @version 1.3
+ * @datum 1.03.2023
+ */
+
 public class Zufallszahlen {
     public static void main(String[] args) {
         // Zufallszahl erzeugen
@@ -47,7 +55,7 @@ public class Zufallszahlen {
     }
 
     static void aufgabeDrei() {
-        // Aufgabe 3 
+        // Aufgabe 3
         // Erzeuge eine Zufallszahl im Bereich von 75 bis 500
         int zufallsZahl = new Random().nextInt(426) + 75;
 

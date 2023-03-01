@@ -3,6 +3,14 @@ package EinfacheDatentypen.Ratespiel;
 import java.util.Random;
 import java.util.Scanner;
 
+/**
+ * Ratespiel
+ * 
+ * @autor Max B / github.com/hitohitonika
+ * @version 1.3
+ * @datum 1.03.2023
+ */
+
 public class Ratespiel {
     /*
      * Auftrag: „Das erste Java-Spiel!“
@@ -23,7 +31,7 @@ public class Ratespiel {
 
         int randomZahl;
 
-        int zugAnzahl=1;
+        int zugAnzahl = 1;
 
         Scanner scanner = new Scanner(System.in);
 
@@ -31,8 +39,7 @@ public class Ratespiel {
 
         System.out.println("Willkommen beim Ratespiel");
 
-        randomZahl = new Random().nextInt(grenzeBestimmen(scanner))+1;
-
+        randomZahl = new Random().nextInt(grenzeBestimmen(scanner)) + 1;
 
         while (gewonnen == false) {
 
@@ -54,7 +61,7 @@ public class Ratespiel {
 
                 System.out.println("Die von ihnen eingegebene Zahl ist kleiner als die Zufallszahl");
 
-            } 
+            }
 
             zugAnzahl++;
 
@@ -71,16 +78,14 @@ public class Ratespiel {
         return scanner.nextInt();
     }
 
-    private static void zugAnzahlAuswerten(int zugAnzahl){
-        if(zugAnzahl<=5){
-            System.out.println("Richtig flotter Hase hier in "+zugAnzahl+" Zuegen geloest");
-        }else if(zugAnzahl<=10){
-            System.out.println("Nicht ganz so flotter Hase in "+zugAnzahl+" Zuegen geloest");
-        }else{
-            System.out.println("Schildkröte in "+zugAnzahl+" Zuegen geloest");
+    private static void zugAnzahlAuswerten(int zugAnzahl) {
+        if (zugAnzahl <= 5) {
+            System.out.println("Richtig flotter Hase hier in " + zugAnzahl + " Zuegen geloest");
+        } else if (zugAnzahl <= 10) {
+            System.out.println("Nicht ganz so flotter Hase in " + zugAnzahl + " Zuegen geloest");
+        } else {
+            System.out.println("Schildkröte in " + zugAnzahl + " Zuegen geloest");
         }
     }
-    
-    
 
 }

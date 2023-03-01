@@ -1,5 +1,13 @@
 package EinfacheDatentypen.Grundlagen;
 
+/**
+ * Schleifen
+ * 
+ * @autor Max B / github.com/hitohitonika
+ * @version 1.3
+ * @datum 1.03.2023
+ */
+
 public class Schleifen {
     public static void main(String[] args) {
         // Beispiele
