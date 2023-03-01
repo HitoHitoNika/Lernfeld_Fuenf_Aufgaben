@@ -24,6 +24,7 @@ public class CSV_Reader {
  * 	b)Die Minimaltemperatur.
  *  c)Die durchschnittliche Temperatur.*/
     public static void main(String[] args) throws IOException {
+        //Das ist der Dateipfad in meinem Fall, müsst ihr bei euch ändern !
         String dateipfad="/C://Users//User//Documents//Schulsachen/aussentemperatur_ucb.csv/";
 
 
