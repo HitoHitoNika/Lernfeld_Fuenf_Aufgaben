@@ -40,7 +40,7 @@ public class TicTacToe2Player {
         char spielstein = 'X'; // von Spieler 1
 
         // Spiel
-        while (gewinner == false) {
+        while (!gewinner) {
 
             // Spielstein platzieren
             System.out.println("Mach deinen Zug.");
@@ -65,25 +65,25 @@ public class TicTacToe2Player {
 
             // Siegzug pr�fen
             if ( // waagerecht drei in einer Reihe?
-            spielfeld[0][0] == spielfeld[0][1] & spielfeld[0][1] == spielfeld[0][2] & spielfeld[0][2] == spielstein
-                    | spielfeld[1][0] == spielfeld[1][1] & spielfeld[1][1] == spielfeld[1][2]
-                            & spielfeld[1][2] == spielstein
-                    | spielfeld[2][0] == spielfeld[2][1] & spielfeld[2][1] == spielfeld[2][2]
-                            & spielfeld[2][2] == spielstein
-                    |
+            spielfeld[0][0] == spielfeld[0][1] && spielfeld[0][1] == spielfeld[0][2] && spielfeld[0][2] == spielstein
+                    || spielfeld[1][0] == spielfeld[1][1] && spielfeld[1][1] == spielfeld[1][2]
+                            && spielfeld[1][2] == spielstein
+                    || spielfeld[2][0] == spielfeld[2][1] && spielfeld[2][1] == spielfeld[2][2]
+                            && spielfeld[2][2] == spielstein
+                    ||
                     // senkrecht drei in einer Reihe?
-                    spielfeld[0][0] == spielfeld[1][0] & spielfeld[1][0] == spielfeld[2][0]
-                            & spielfeld[2][0] == spielstein
-                    | spielfeld[0][1] == spielfeld[1][1] & spielfeld[1][1] == spielfeld[2][1]
-                            & spielfeld[2][1] == spielstein
-                    | spielfeld[0][2] == spielfeld[1][2] & spielfeld[1][2] == spielfeld[2][2]
-                            & spielfeld[2][2] == spielstein
-                    |
+                    spielfeld[0][0] == spielfeld[1][0] && spielfeld[1][0] == spielfeld[2][0]
+                            && spielfeld[2][0] == spielstein
+                    || spielfeld[0][1] == spielfeld[1][1] && spielfeld[1][1] == spielfeld[2][1]
+                            && spielfeld[2][1] == spielstein
+                    || spielfeld[0][2] == spielfeld[1][2] && spielfeld[1][2] == spielfeld[2][2]
+                            && spielfeld[2][2] == spielstein
+                    ||
                     // diagonal drei in einer Reihe?
-                    spielfeld[0][0] == spielfeld[1][1] & spielfeld[1][1] == spielfeld[2][2]
-                            & spielfeld[2][2] == spielstein
-                    | spielfeld[2][0] == spielfeld[1][1] & spielfeld[1][1] == spielfeld[0][2]
-                            & spielfeld[0][2] == spielstein) {
+                    spielfeld[0][0] == spielfeld[1][1] && spielfeld[1][1] == spielfeld[2][2]
+                            && spielfeld[2][2] == spielstein
+                    || spielfeld[2][0] == spielfeld[1][1] && spielfeld[1][1] == spielfeld[0][2]
+                            && spielfeld[0][2] == spielstein) {
                 gewinner = true;
                 System.out.println("Du hast gewonnen!");
             }
