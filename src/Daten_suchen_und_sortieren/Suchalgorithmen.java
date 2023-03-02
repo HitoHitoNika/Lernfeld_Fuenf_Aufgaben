@@ -1,6 +1,6 @@
 package Daten_suchen_und_sortieren;
 
-public class Suchalgorithmen_PowerPoint {
+public class Suchalgorithmen {
     //Siehe Moodle PowerPoint "Daten suchen"
     public static void main(String[] args) {
         //Beispiel Sequentielle Suche
