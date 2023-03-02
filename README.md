@@ -29,3 +29,4 @@ Poste hier auch später noch wie man den Code pullt etc. :)
 
 ##Daten suchen und sortieren
 ###### Daten suchen                        ✔️
+###### Daten sortieren                     ✔️
