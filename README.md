@@ -7,7 +7,7 @@ Wenn ihr Änderungsvorschläge / alternative Lösungen habt könnt ihr euch eine
 
 Poste hier auch später noch wie man den Code pullt etc. :)
 
-# Aktueller Stand
+# Aktueller Stand vom *Master* Branch !
 
 ## Einfache Datentypen
 ###### Einfache Datentypen                 ✔️
@@ -26,3 +26,6 @@ Poste hier auch später noch wie man den Code pullt etc. :)
 ##  Arrays
 ###### Wetterstation/CSVReader             ✔️
 ###### TicTacToe                           ✔️
+
+##Daten suchen und sortieren
+###### Daten suchen                        ✔️
