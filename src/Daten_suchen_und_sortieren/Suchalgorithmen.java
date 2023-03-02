@@ -15,7 +15,7 @@ public class Suchalgorithmen {
         // Beispiel Binäre Suche
         // Achtung das Array muss bereits sortiert sein
         int[] b = { 1, 2, 3, 4, 5 };
-        System.out.println("Die Zahl 7 ist im Array enthalten :" + binSuche(a, 7));
+        System.out.println("Die Zahl 7 ist im Array enthalten :" + binSuche(b, 7));
         System.out.println("Die Zahl 3 ist im Array enthalten :" + binSuche(b, 3));
         // Im besten Fall liegt die gesuchte in der Mitte des Arrays
         // Im schlechtesten Fall an Anfang oder Ende
