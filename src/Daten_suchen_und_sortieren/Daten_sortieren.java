@@ -5,20 +5,52 @@ import java.util.Arrays;
 public class Daten_sortieren {
 
     public static void main(String[] args) {
+        // Erstellung eines Arrays
         int[] a = { 9, 3, 2, 4, 6, 1, 8 };
+
+        // unsortiertes array soll sortiert werden
+        // da unsere bubbleSort Methode ein Array zurückgibt
+        // wird hier das unsortierte Array mit dem sortierten überschrieben
         a = bubbleSort(a);
+
+        // Ausgabe
         System.out.println("Array a: ");
         for (int i : a) {
-            System.out.print(i+" ");
+            System.out.print(i + " ");
         }
+
+        // Leerzeile
         System.out.println();
-        //Arrays bieten eigene Methoden um zu sortieren
+
+        // Arrays bieten eigene Methoden um zu sortieren
+
+        // Erstellen eines Arrays
         int[] b = { 9, 3, 2, 4, 6, 1, 8 };
-        System.out.println("Array b: ");
+
+        // Sortieren das Arrays
         Arrays.sort(b);
+
+        // Ausgabe
+        System.out.println("Array b: ");
         for (int i : b) {
-            System.out.print(i+" ");
+            System.out.print(i + " ");
         }
+
+        // Bubblesort 2 Methode aus PowerPoint
+        // Erstellung eines Arrays
+        int[] c = { 9, 3, 2, 4, 6, 1, 8 };
+
+        // unsortiertes array soll sortiert werden
+        // da unsere bubbleSort Methode ein Array zurückgibt
+        // wird hier das unsortierte Array mit dem sortierten überschrieben
+        c = bubbleSort2(c);
+
+        // Ausgabe
+        System.out.println("Array c: ");
+        for (int i : c) {
+            System.out.print(i + " ");
+        }
+
     }
 
     static int[] bubbleSort(int[] a) {
@@ -32,6 +64,23 @@ public class Daten_sortieren {
                 }
             }
         }
+        return a;
+    }
+
+    static int[] bubbleSort2(int a[]) {
+        int n = a.length;
+        boolean getauscht = true;
+        do {
+            getauscht = false;
+            for (int i = 0; i < n - 1; i++) {
+                if (a[i + 1] < a[i]) {
+                    int temp = a[i + 1];
+                    a[i + 1] = a[i];
+                    a[i] = temp;
+                    getauscht = true;
+                }
+            }
+        } while (getauscht);
         return a;
     }
 
