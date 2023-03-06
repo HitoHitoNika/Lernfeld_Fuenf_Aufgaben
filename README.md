@@ -49,6 +49,6 @@ Jedoch sind die Schritte hier leichter selbst zu finden, deshalb zeige ich es hi
 ###### Wetterstation/CSVReader             ✔️
 ###### TicTacToe                           ✔️
 
-##Daten suchen und sortieren
+## Daten suchen und sortieren
 ###### Daten suchen                        ✔️
 ###### Daten sortieren                     ✔️
