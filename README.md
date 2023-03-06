@@ -42,8 +42,7 @@ Jedoch sind die Schritte hier leichter selbst zu finden, deshalb zeige ich es hi
 ######        Eingabe / Ausgabe            ✔️ 
 
 ## Übungen
-######  Gemischte Übungen zu den Grundlagen❌
-######  Übungsklausur                      ❌
+######  Übungsklausur 1                    ❌
 
 ## Ratespiel                               ✔️
 
