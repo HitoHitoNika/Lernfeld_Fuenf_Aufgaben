@@ -50,6 +50,9 @@ Jedoch sind die Schritte hier leichter selbst zu finden, deshalb zeige ich es hi
 ###### Wetterstation/CSVReader             ✔️
 ###### TicTacToe                           ✔️
 
+## Methoden
+###### Beide Beispiele von Herr Dietrich   ✔️
+
 ## Daten suchen und sortieren
 ###### Daten suchen                        ✔️
 ###### Daten sortieren                     ✔️
