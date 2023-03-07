@@ -1,4 +1,4 @@
-package Array.TicTacToe;
+package array.tictactoe;
 
 import java.util.Scanner;
 

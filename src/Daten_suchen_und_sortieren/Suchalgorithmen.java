@@ -1,4 +1,4 @@
-package Daten_suchen_und_sortieren;
+package daten_suchen_und_sortieren;
 
 public class Suchalgorithmen {
     // Siehe Moodle PowerPoint "Daten suchen"

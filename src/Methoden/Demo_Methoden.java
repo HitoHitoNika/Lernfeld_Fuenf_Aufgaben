@@ -1,4 +1,4 @@
-package Methoden;
+package methoden;
 
 public class Demo_Methoden {
 

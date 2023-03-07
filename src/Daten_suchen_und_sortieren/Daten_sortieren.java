@@ -1,4 +1,4 @@
-package Daten_suchen_und_sortieren;
+package daten_suchen_und_sortieren;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package Array.Wetterstation;
+package array.wetterstation;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
