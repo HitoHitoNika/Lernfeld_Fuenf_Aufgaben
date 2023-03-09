@@ -2,7 +2,7 @@ package daten_suchen_und_sortieren;
 
 import java.util.Arrays;
 
-public class Daten_sortieren {
+public class DatenSortieren {
 
     public static void main(String[] args) {
         // Erstellung eines Arrays
