@@ -93,5 +93,6 @@ public class TicTacToe2Player {
             } else
                 spielstein = 'X';
         }
+        input.close();
     }
 }
