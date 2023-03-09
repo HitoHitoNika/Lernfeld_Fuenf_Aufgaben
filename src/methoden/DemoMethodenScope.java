@@ -1,6 +1,6 @@
 package methoden;
 
-public class Demo_Methoden_Scope {
+public class DemoMethodenScope {
 	
 	//1.Methodendefinition
 	public static void helloWorldAusgabe() {

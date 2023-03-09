@@ -1,6 +1,6 @@
 package methoden;
 
-public class Demo_Methoden {
+public class DemoMethoden {
 
 	public static void main(String[] args) {
 	//Allgemeiner Aufbau einer Methode
