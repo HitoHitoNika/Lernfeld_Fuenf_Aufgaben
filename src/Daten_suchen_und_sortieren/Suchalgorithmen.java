@@ -1,4 +1,4 @@
-package Daten_suchen_und_sortieren;
+package daten_suchen_und_sortieren;
 
 public class Suchalgorithmen {
     // Siehe Moodle PowerPoint "Daten suchen"
@@ -24,6 +24,7 @@ public class Suchalgorithmen {
     static boolean seqSuche(int[] a, int gesucht) {
         for (int i = 0; i < a.length; i++) {
             if (a[i] == gesucht) {
+                System.out.println("Die gesuchte Zahl befindet sich an der Stelle "+i);
                 return true;
             }
         }

@@ -1,4 +1,4 @@
-package EinfacheDatentypen.Grundlagen;
+package einfachedatentypen.grundlagen;
 
 /**
  * Operatoren

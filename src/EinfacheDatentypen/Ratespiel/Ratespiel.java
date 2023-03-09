@@ -1,4 +1,4 @@
-package EinfacheDatentypen.Ratespiel;
+package einfachedatentypen.ratespiel;
 
 import java.util.Random;
 import java.util.Scanner;
