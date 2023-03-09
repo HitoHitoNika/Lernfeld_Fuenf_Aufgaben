@@ -11,7 +11,7 @@ public class DatenSortieren {
         // unsortiertes array soll sortiert werden
         // da unsere bubbleSort Methode ein Array zurückgibt
         // wird hier das unsortierte Array mit dem sortierten überschrieben
-        a = bubbleSort(a);
+        bubbleSort(a);
 
         // Ausgabe
         System.out.println("Array a: ");
@@ -43,7 +43,7 @@ public class DatenSortieren {
         // unsortiertes array soll sortiert werden
         // da unsere bubbleSort Methode ein Array zurückgibt
         // wird hier das unsortierte Array mit dem sortierten überschrieben
-        c = bubbleSort2(c);
+        bubbleSort2(c);
 
         // Ausgabe
         System.out.println("Array c: ");
