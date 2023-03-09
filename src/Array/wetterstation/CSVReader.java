@@ -12,7 +12,7 @@ import java.io.IOException;
  * @datum 1.03.2023
  */
 
-public class CSV_Reader {
+public class CSVReader {
 
     /*
      * Lernjobs
