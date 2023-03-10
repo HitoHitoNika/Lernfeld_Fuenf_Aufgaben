@@ -19,7 +19,7 @@ Meine Sachen sind alle auf English, aber das sollte ja hoffentlich kein Problem 
     -> den Key aus der Textbox *kopieren* 
     -> Save Private Key 
 
-![](misc\Eclipse Guide\Guide_2.mp4)
+https://user-images.githubusercontent.com/103290810/224427871-8c34e9ca-4081-45d8-ac25-a3502628e79f.mp4
 
 - Damit wärt ihr in Eclipse fertig
 
