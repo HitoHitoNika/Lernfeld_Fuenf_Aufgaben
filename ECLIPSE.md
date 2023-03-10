@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/103290810/224427871-8c34e9ca-4081-45d8
     -> Und dann den vorher kopierten Key einfügen
     -> Add SSH key
 
-![](https://github.com/HitoHitoNika/Lernfeld_Fuenf_Aufgaben/blob/master/misc/Eclipse%20Guide/Guide_3.mp4)
+![](https://github.com/HitoHitoNika/Lernfeld_Fuenf_Aufgaben/blob/master/misc/Eclipse%20Guide/Guide_3.gif)
 
 ###### Projekt in Eclipse clonen
 
