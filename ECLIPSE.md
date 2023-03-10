@@ -6,6 +6,8 @@ Das ganze wird erst in Stichpunkten erklärt und dannach mit einem Video bildlic
 
 Meine Sachen sind alle auf English, aber das sollte ja hoffentlich kein Problem sein 😊
 
+Danke an CJ den Löwen fürs testen ❤️
+
 ###### SSH Key einrichten
 
 - Window
@@ -71,9 +73,13 @@ https://user-images.githubusercontent.com/103290810/224427871-8c34e9ca-4081-45d8
 
 - Local Destination
     -> Locales Verzeichnis auswählen (Da wo es gespeichert werden soll)
-    -> Finish
 
 ![](https://github.com/HitoHitoNika/Lernfeld_Fuenf_Aufgaben/blob/master/misc/Eclipse%20Guide/Guide_9.png)
+
+- Wizzard auswahl (Credit an CJ <3)
+    -> Import as general project
+
+![](https://github.com/HitoHitoNika/Lernfeld_Fuenf_Aufgaben/blob/master/misc/Eclipse%20Guide/Guide_11.png)
 
 ###### Eigenen Branch erstellen
 
