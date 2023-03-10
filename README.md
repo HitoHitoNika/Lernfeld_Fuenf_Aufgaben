@@ -19,14 +19,18 @@ Immer offen für Fragen einfach Discord etc schreiben :)
 ![](https://github.com/HitoHitoNika/Lernfeld_Fuenf_Aufgaben/blob/master/misc/Guide%201.gif)
 
 ## Option 2: Als GitProjekt 
-Da das ganze von IDE zu IDE ein wenig abweicht, probiere ich Eclipse, VSCode und IntelliJ abzudecken
+Da das ganze von IDE zu IDE ein wenig abweicht, probiere ich Eclipse, VSCode und IntelliJ abzudecken.
 Wenn ihr was anderes benutzt, kann ich probieren zu helfen ansonsten schaut bei Option 3
+
+![Klicke hier für Eclipse Guide](https://github.com/HitoHitoNika/Lernfeld_Fuenf_Aufgaben/blob/master/ECLIPSE.md)
+
 
 - KOMMT NOCH
 
 ## Option 3: Als "normales" Projekt importieren
-Hier ist das ganze auch ein wenig unterschiedlich zwischen den IDE´s, hier gilt das selbe wie oben
-Jedoch sind die Schritte hier leichter selbst zu finden, deshalb zeige ich es hier ebenfalls nur an VSCode Eclipse und IntelliJ
+Hier ist das ganze auch ein wenig unterschiedlich zwischen den IDE´s.
+Jedoch sind die Schritte hier leichter selbst zu finden, deshalb zeige ich es hier nur an VSCode.
+
 
 - KOMMT NOCH
 
