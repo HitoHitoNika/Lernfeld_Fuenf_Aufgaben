@@ -36,7 +36,7 @@ Meine Sachen sind alle auf English, aber das sollte ja hoffentlich kein Problem 
     -> Und dann den vorher kopierten Key einfügen
     -> Add SSH key
 
-![](misc\Eclipse Guide\Guide_3.mp4)
+![](https://github.com/HitoHitoNika/Lernfeld_Fuenf_Aufgaben/blob/master/misc/Eclipse%20Guide/Guide_3.mp4)
 
 ###### Projekt in Eclipse clonen
 
@@ -46,34 +46,34 @@ Meine Sachen sind alle auf English, aber das sollte ja hoffentlich kein Problem 
     -> SSH
     -> Link kopieren
 
-![](misc\Eclipse Guide\Guide_4.png)
-![](misc\Eclipse Guide\Guide_5.png)
+![](https://github.com/HitoHitoNika/Lernfeld_Fuenf_Aufgaben/blob/master/misc/Eclipse%20Guide/Guide_4.png)
+![](https://github.com/HitoHitoNika/Lernfeld_Fuenf_Aufgaben/blob/master/misc/Eclipse%20Guide/Guide_5.png)
 
 - Eclipse öffnen (Bitte hier auf die Bilder achten, etwas schwierig zu erklären)
     ->Obere rechte Ecke auf GIT-Ansicht wechseln
     ->Links auf die Fläche *unter* den 3 Optionen drücken (Keine Option anklicken)
     ->Link einfügen 
 
-![](misc\Eclipse Guide\Guide_6.png)
+![](https://github.com/HitoHitoNika/Lernfeld_Fuenf_Aufgaben/blob/master/misc/Eclipse%20Guide/Guide_6.png)
 
 - Es sollte sich ein neues Fenster öffnen
     -> Location sollte auto filled sein, wenn nicht die oberen Schritte in Eclipse wiederholen
     -> Connection sollte auf ssh stehen
     -> Authentication sollte als User nur git stehen
 
-![](misc\Eclipse Guide\Guide_7.png)
+![](https://github.com/HitoHitoNika/Lernfeld_Fuenf_Aufgaben/blob/master/misc/Eclipse%20Guide/Guide_7.png)
 
 - Branch Selection 
     -> Nur einen Haken bei "developer" setzen
     -> Next
 
-![](misc\Eclipse Guide\Guide_8.png)
+![](https://github.com/HitoHitoNika/Lernfeld_Fuenf_Aufgaben/blob/master/misc/Eclipse%20Guide/Guide_8.png)
 
 - Local Destination
     -> Locales Verzeichnis auswählen (Da wo es gespeichert werden soll)
     -> Finish
 
-![](misc\Eclipse Guide\Guide_9.png)
+![](https://github.com/HitoHitoNika/Lernfeld_Fuenf_Aufgaben/blob/master/misc/Eclipse%20Guide/Guide_9.png)
 
 ###### Eigenen Branch erstellen
 
@@ -86,7 +86,7 @@ Meine Sachen sind alle auf English, aber das sollte ja hoffentlich kein Problem 
 - Check out new branch
 - Finish
 
-![](misc\Eclipse Guide\Guide_10.png)
+![](https://github.com/HitoHitoNika/Lernfeld_Fuenf_Aufgaben/blob/master/misc/Eclipse%20Guide/Guide_10.png)
 
 
 
