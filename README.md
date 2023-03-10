@@ -22,7 +22,7 @@ Immer offen für Fragen einfach Discord etc schreiben :)
 Da das ganze von IDE zu IDE ein wenig abweicht, probiere ich Eclipse, VSCode und IntelliJ abzudecken.
 Wenn ihr was anderes benutzt, kann ich probieren zu helfen ansonsten schaut bei Option 3
 
-![Klicke hier für Eclipse Guide](https://github.com/HitoHitoNika/Lernfeld_Fuenf_Aufgaben/blob/master/ECLIPSE.md)
+[![Klicke hier für Eclipse Guide][eclipse_logo]](https://github.com/HitoHitoNika/Lernfeld_Fuenf_Aufgaben/blob/master/ECLIPSE.md)
 
 
 - KOMMT NOCH
@@ -60,3 +60,6 @@ Jedoch sind die Schritte hier leichter selbst zu finden, deshalb zeige ich es hi
 ## Daten suchen und sortieren
 ###### Daten suchen                        ✔️
 ###### Daten sortieren                     ✔️
+
+## Hier ist nur Config Stuff für die Datei bitte ignorieren :)
+[eclipse_logo]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-zffxh&psig=AOvVaw0aZhFmw6DsxvCVKBrX3U31&ust=1678569268813000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJje7fKj0v0CFQAAAAAdAAAAABAJ
