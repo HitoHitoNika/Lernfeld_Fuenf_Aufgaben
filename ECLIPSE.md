@@ -94,6 +94,38 @@ https://user-images.githubusercontent.com/103290810/224427871-8c34e9ca-4081-45d8
 
 ![](https://github.com/HitoHitoNika/Lernfeld_Fuenf_Aufgaben/blob/master/misc/Eclipse%20Guide/Guide_10.png)
 
+###### Code editieren           (Sorry für den Mental Breakdown CJ ❤️)
+
+- Oben rechts zurück in die Java Ansicht
+- File
+    -> Open Project from File System
+    -> Euren Ordner auswählen
+
+https://user-images.githubusercontent.com/103290810/224436700-cfdd143f-50f3-46e2-8be3-53c0c5c060c9.mp4
+
+
+###### Code pushen
+# Bitte nur machen wenn ihr in eurem eigenen Branch seid
+- Rechts klick auf euer Project
+- Team
+- (Prüfen ob in eigenem Branch bei dem Unterpunkt "Switch to")
+- Wenn in eigenem Branch oben auf "Commit..."
+- Bei unstagged changes auf das doppel + drücken (siehe Bilder)
+- Bei Commit Message ein Kommentar eingeben was ihr geändert habt
+- Unten rechts auf "Commit and Push"
+
+![](https://github.com/HitoHitoNika/Lernfeld_Fuenf_Aufgaben/blob/master/misc/Eclipse%20Guide/Guide_12.png)
+
+# Bitte nur machen wenn ihr in eurem eigenen Branch seid 
+
+![](https://github.com/HitoHitoNika/Lernfeld_Fuenf_Aufgaben/blob/master/misc/Eclipse%20Guide/Guide_13.png)
+
+# DANKE ❤️
+
+###### Bei Fragen/Anmerkungen/Fehlersichtung/etc einfach auf mich zukommen ich schau gerne mal drauf :)
+
+
+
 
 
 
