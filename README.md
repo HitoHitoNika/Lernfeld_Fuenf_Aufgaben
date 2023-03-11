@@ -45,7 +45,7 @@ Jedoch sind die Schritte hier leichter selbst zu finden, deshalb zeige ich es hi
 ######        Eingabe / Ausgabe            ✔️ 
 
 ## Übungen
-######  Übungsklausur 1                    ❌
+######  Übungsklausur 1                    ✔️ 
 
 ## Ratespiel                               ✔️
 
