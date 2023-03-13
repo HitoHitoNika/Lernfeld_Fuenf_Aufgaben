@@ -29,7 +29,7 @@ Wenn ihr was anderes benutzt, kann ich probieren zu helfen ansonsten schaut bei 
 
 ## Option 3: Als "normales" Projekt importieren
 Hier ist das ganze auch ein wenig unterschiedlich zwischen den IDE´s.
-Jedoch sind die Schritte hier leichter selbst zu finden, deshalb zeige ich es hier nur an VSCode.
+Jedoch sind die Schritte hier leichter selbst zu finden, deshalb zeige ich es hier nur an Eclipse.
 
 
 - Folgt noch
