@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/103290810/224427871-8c34e9ca-4081-45d8
 
 ###### Projekt in Eclipse clonen
 
-- Auf das Repo gehen (Wenn ihr das liest seid ihr richtig)
+- Auf die Startseite des Repos gehen 
     -> Den Button "<> Code" anklicken
     -> Local
     -> SSH
