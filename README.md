@@ -16,7 +16,8 @@ Immer offen für Fragen einfach Discord etc schreiben :)
 - Klickt auf das entsprechende Package
 - Klickt eine Klasse an
 ## Erklärung als GIF
-![](https://github.com/HitoHitoNika/Lernfeld_Fuenf_Aufgaben/blob/master/misc/Guide%201.gif)
+![Guide 1](https://user-images.githubusercontent.com/103290810/224774556-413f7587-d913-48a6-8c15-8e4ed2685758.gif)
+
 
 ## Option 2: Als GitProjekt 
 Da das ganze von IDE zu IDE ein wenig abweicht, probiere ich Eclipse, VSCode und IntelliJ abzudecken.
