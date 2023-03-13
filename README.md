@@ -31,8 +31,7 @@ Wenn ihr was anderes benutzt, kann ich probieren zu helfen ansonsten schaut bei 
 Hier ist das ganze auch ein wenig unterschiedlich zwischen den IDE´s.
 Jedoch sind die Schritte hier leichter selbst zu finden, deshalb zeige ich es hier nur an Eclipse.
 
-
-- Folgt noch
+![Klicke hier für den Guide](https://github.com/HitoHitoNika/Lernfeld_Fuenf_Aufgaben/blob/master/OPTION__3.md)
 
 
 # Aktueller Stand vom *Master* Branch !
